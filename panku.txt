@@ -1,0 +1,3 @@
+hello everyone this is text file crreated by vim editor:x
+B
+:
